@@ -3,6 +3,7 @@
 sudo apt-get install libbz2-dev \
                      libgdbm-dev \
                      libsqlite3-dev \
+                     libreadline-dev \
                      libreadline6-dev \
                      libncurses5-dev \
                      libssl-dev \
