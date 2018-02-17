@@ -9,4 +9,4 @@ sudo apt-get install libbz2-dev \
                      zlib1g-dev \
                      liblzma-dev \
                      tk-dev
-```sh
+```
